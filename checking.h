@@ -1,0 +1,2 @@
+int bcheck(int *cells);
+
